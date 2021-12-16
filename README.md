@@ -1,4 +1,4 @@
-                                          ### Hi 👋,I AM KONDURU SAI RAKSHITH
+                                             Hi 👋,I AM KONDURU SAI RAKSHITH
                                           
                                         A passionate frontend developer from India
 
