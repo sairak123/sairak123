@@ -1,5 +1,7 @@
-### Hi 👋,I AM KONDURU SAI RAKSHITH
-A passionate frontend developer from India
+                                          ### Hi 👋,I AM KONDURU SAI RAKSHITH
+                                          
+                                        A passionate frontend developer from India
+
  I’m currently working on a Javascript project
 
  I’m currently learning Javascript, Jquery and ReactJs
